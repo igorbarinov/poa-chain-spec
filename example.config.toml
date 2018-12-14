@@ -1,8 +1,8 @@
 [parity]
-base_path = "BASE_PATH"
+base_path = "./data"
 no_persistent_txqueue = true
 chain = "./spec.json"
-keys_path = "KEY_PATH"
+keys_path = "./keys"
 
 [network]
 # Parity will sync by downloading latest state first. Node will be operational in couple minutes.
