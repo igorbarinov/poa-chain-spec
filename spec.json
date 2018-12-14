@@ -4,7 +4,7 @@
     "authorityRound": {
       "params": {
         "stepDuration": 5,
-        "blockReward": "0xDE0B6B3A7640000", // 0xDE0B6B3A7640000 = 1.000000000000000000 LYX
+        "blockReward": "0xDE0B6B3A7640000",
         "maximumUncleCountTransition": 0,
         "maximumUncleCount": 0,
         "validators": {
